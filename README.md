@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a comprehensive benchmark system for evaluating large language models' (LLMs) ability to predict legal case outcomes in contract law. The benchmark uses a dataset of 100 contract dispute cases from the California jurisdiction, focusing on marketing service agreements between tech startups and marketing firms. The dataset was generated using Claude and tested on GPT-4.0 Mini.
+This project implements a comprehensive benchmark system for evaluating large language models' (LLMs) ability to predict legal case outcomes in contract law. The benchmark uses a dataset of 100 contract dispute cases from the California jurisdiction, focusing on marketing service agreements between tech startups and marketing firms. The dataset was generated using Claude and tested on GPT-4o-Mini to make things interesting.
 
 ## Dataset Structure
 
@@ -263,10 +263,6 @@ Implements matplotlib and seaborn for result visualization:
    - Advanced visualization
    - Statistical analysis
    - Pattern recognition
-
-## Contributing
-
-While this project is primarily for demonstration and research purposes, observations and analysis are welcome through the issues section.
 
 ## License
 
