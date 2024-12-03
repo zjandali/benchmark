@@ -264,6 +264,3 @@ Implements matplotlib and seaborn for result visualization:
    - Statistical analysis
    - Pattern recognition
 
-## License
-
-This project is for educational and research purposes only. The case data, while synthetic, is structured to reflect real-world legal patterns and should be used accordingly.
