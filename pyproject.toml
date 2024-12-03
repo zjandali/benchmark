@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "benchmark"
+version = "0.1.0"
+description = ""
+authors = ["Zain"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+python-dotenv = "^1.0.1"
+openai = "^1.56.0"
+pandas = "^2.2.3"
+matplotlib = "^3.9.3"
+seaborn = "^0.13.2"
+scikit-learn = "^1.5.2"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.5"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
